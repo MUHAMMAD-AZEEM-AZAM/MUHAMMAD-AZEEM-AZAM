@@ -19,13 +19,14 @@
 - Deep Learning (CNNs, Transformers)
 - Retrieval-Augmented Generation (RAG)
 - AI Agents & task automation
-- Medical & document-centric AI systems
+- Medical & Human-centric AI systems
 
 ---
 
 ### 🏆 Highlights
 - 🥇 **Harvard CS50x Puzzle Day Winner** (solved 9/9 puzzles)
 - 🧑‍🏫 **Trainer & Mentor** for AI, DSA, and Agentic Systems
+- 🧑‍⚖️ Hackathon Judge & Mentor (Generative AI) - Pak Angels
 - 🌍 **Open-source contributor & mentor** (GSSoC ’25)
 - 🧠 Research Assistant on a **Medical AI initiative**
 
